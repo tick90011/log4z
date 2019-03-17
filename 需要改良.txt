@@ -1,0 +1,2 @@
+1.fopen 要改为_wfopen 以支持中文路径
+2.要支持宽字符,或者提供转码函数,unicode 转utf8
